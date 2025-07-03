@@ -61,7 +61,7 @@ Principles_Of_Programming_Languages_project/
 
 ## About The Project
 
-* **Year:** 2nd Year – Fall 2024
+* **Year:** 3rd Year – Fall 2024
 * **Course:** CS213 – Principles of Programming
 * **Role:** Full implementation of 3 programs (in 3 languages), and collaboration on report writing
 
