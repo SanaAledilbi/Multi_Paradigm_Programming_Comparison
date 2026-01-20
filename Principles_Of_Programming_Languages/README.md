@@ -108,7 +108,7 @@ All implementations were developed and tested using online platforms:
 
 A detailed analysis comparing the three paradigms, including code explanations and theoretical foundations, is available in the project report:
 
-[Multi_Paradigm_Programming_Report](Principles_Of_Programming_Languages/Multi_Paradigm_Programming_Report.pdf)
+[Multi-Paradigm Programming Report](Multi_Paradigm_Programming_Report.pdf)
 
 ---
 
@@ -132,4 +132,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Sana Aledilbi**  
 [GitHub Profile](https://github.com/SanaAledilbi)
+
 
